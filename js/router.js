@@ -133,7 +133,7 @@ function RenderContactPage() {
             <label for="message">Message:</label>
             <textarea id="message" name="message" required minlength="10"></textarea>
             
-            <div class="g-recaptcha" data-sitekey="6LcRzkssAAAAALYhIjQSkk0w-pGLzH-j8st6mgma"></div>
+            <div class="g-recaptcha" data-sitekey="6Ld8zOssAAAAAMChZUhQ7KIHJZxKATIPp_Z7zpmh"></div>
             
             <button type="submit">Send</button>
         </form>`;
